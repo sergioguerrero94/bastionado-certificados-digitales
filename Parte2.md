@@ -15,6 +15,7 @@ El certificado que hemos generado nos ha pedido al momento de autofirmarlo una s
 Donde podemos ver las mayores diferencias es cuando clicamos en la pestaña detalles.
 
 Como podemos ver en la captura el certificado de Youtube contiene una Jerarquía de certificados completa mientras que el autofirmado, no tiene una jerarquía en cuestion, sino que, como podemos ver en la segunda captura, tenemos la serie de datos que hemos rellenado al generarlo.
+
 ![certificado-detalles-youtube](./img/certificado-youtube-seguro-detalles.png)
 ![certificado-propio-detalles](./img/certificado-propio-detalles.png)
 
