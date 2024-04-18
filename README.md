@@ -1,1 +1,0 @@
-# bastionado-certificados-digitales
